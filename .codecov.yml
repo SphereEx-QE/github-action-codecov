@@ -15,6 +15,10 @@
 # limitations under the License.
 #
 
+comment:
+  layout: "reach, diff, flags, files"
+  behavior: default
+
 coverage:
   status:
     # pull-requests only
