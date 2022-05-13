@@ -29,3 +29,4 @@ coverage:
         threshold: 0.1%
 ignore:
   - "examples/.*"
+
